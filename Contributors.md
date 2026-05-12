@@ -556,6 +556,7 @@ OAT
 - [Srinithi D](https://github.com/Srinithid0109)
 - [Sriteja01](https://github.com/Sriteja01)
 - [Stacy Hilliard](https://github.com/stacyah)
+- [Stanisław Wiącek](https://github.com/StanislawWx)
 - [Stennis Smith](https://github.com/Stennis1)
 - [Stephen Ng](https://github.com/snust)
 - [Stéphane LABROT](https://github.com/stephanelab)
